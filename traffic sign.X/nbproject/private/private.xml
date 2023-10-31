@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/study/Embedded%20Systems%20Diploma/projects/traffic%20sign.X/MCAL/GPIO/gpio.h</file>
+            <file>file:/C:/study/Embedded%20Systems%20Diploma/projects/traffic%20sign.X/MCAL/INTERRUPT/mcal_external_interrupt.c</file>
+            <file>file:/C:/study/Embedded%20Systems%20Diploma/projects/traffic%20sign.X/MCAL/INTERRUPT/mcal_interrupt_gen_cfg.h</file>
+            <file>file:/C:/study/Embedded%20Systems%20Diploma/projects/traffic%20sign.X/app.c</file>
+            <file>file:/C:/study/Embedded%20Systems%20Diploma/projects/traffic%20sign.X/ECUAL/7_SEGMENT/seven_segment.h</file>
+            <file>file:/C:/study/Embedded%20Systems%20Diploma/projects/traffic%20sign.X/MCAL/INTERRUPT/mcal_internal_interrupt.h</file>
+            <file>file:/C:/study/Embedded%20Systems%20Diploma/projects/traffic%20sign.X/ECUAL/7_SEGMENT/seven_segment.c</file>
+            <file>file:/C:/study/Embedded%20Systems%20Diploma/projects/traffic%20sign.X/MCAL/INTERRUPT/mcall_interrupt_manager.c</file>
+            <file>file:/C:/study/Embedded%20Systems%20Diploma/projects/traffic%20sign.X/app.h</file>
+            <file>file:/C:/study/Embedded%20Systems%20Diploma/projects/traffic%20sign.X/init.h</file>
+            <file>file:/C:/study/Embedded%20Systems%20Diploma/projects/traffic%20sign.X/MCAL/INTERRUPT/mcall_interrupt_manager.h</file>
+            <file>file:/C:/study/Embedded%20Systems%20Diploma/projects/traffic%20sign.X/init.c</file>
+            <file>file:/C:/study/Embedded%20Systems%20Diploma/projects/traffic%20sign.X/MCAL/INTERRUPT/mcall_interrupt_cfg.h</file>
+            <file>file:/C:/study/Embedded%20Systems%20Diploma/projects/traffic%20sign.X/ECUAL/LED/led.h</file>
+            <file>file:/C:/study/Embedded%20Systems%20Diploma/projects/traffic%20sign.X/MCAL/GPIO/gpio.c</file>
+        </group>
+    </open-files>
+</project-private>
