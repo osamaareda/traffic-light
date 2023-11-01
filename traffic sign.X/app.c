@@ -21,7 +21,10 @@ while(1)
 }
     return (EXIT_SUCCESS);
 }
-
+/**
+ * 
+ * applicatios ISR for TIMER0 take place every one seconde
+ */
 void MY_TMR0_ISR(void){
     /*********red traffic*********/
     if(red_counter<=60 && red_counter>=30){
